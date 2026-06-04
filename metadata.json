@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Remix: Copy of المدرسة الابتدائية  دراغله محمد - فم الطوب ",
+  "description": "تطبيق متكامل لإدارة المدارس الابتدائية، يشمل إدارة الطلاب والمعلمين، تتبع الحضور، والجداول الدراسية مع ميزات ذكاء اصطناعي لإنشاء تقارير الأداء.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
